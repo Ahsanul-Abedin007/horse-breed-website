@@ -1,0 +1,44 @@
+[
+  {
+    "id": "marwari",
+    "slug": "marwari",
+    "name": "Marwari",
+    "origin": "India (Marwar region)",
+    "type": "Performance",
+    "temperament": "Spirited, Brave",
+    "height": "14.2 - 16.2 hh",
+    "description": "The Marwari is a rare breed of horse from the Marwar region of Rajasthan, in northwest India. It is easily identified by its inward-curving ear tips. It is known for its hardiness, and is quite similar to the Kathiawari.",
+    "traits": ["Curved Ears", "Hardy", "Loyal"],
+    "useCases": ["Endurance", "Ceremonies", "Dressage"],
+    "image": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?auto=format&fit=crop&q=80&w=1000",
+    "history": "Descended from native Indian ponies crossed with Arabian horses, the Marwari was bred by the Rathores, traditional rulers of the Marwar region. They were legendary war horses, known for their bravery and loyalty in battle."
+  },
+  {
+    "id": "akhal-teke",
+    "slug": "akhal-teke",
+    "name": "Akhal-Teke",
+    "origin": "Turkmenistan",
+    "type": "Rare",
+    "temperament": "Intelligent, Energetic",
+    "height": "14.2 - 16.0 hh",
+    "description": "Known as the 'Golden Horse', the Akhal-Teke is famous for its metallic sheen and incredible endurance. It is one of the oldest existing horse breeds.",
+    "traits": ["Metallic Coat", "Slender", "Endurance"],
+    "useCases": ["Endurance Racing", "Show Jumping", "Dressage"],
+    "image": "https://images.unsplash.com/photo-1598974357851-98166a9d9b5a?auto=format&fit=crop&q=80&w=1000",
+    "history": "The Akhal-Teke was bred by the Teke tribes of Turkmenistan. It was used for raiding and long-distance travel across the desert, where its ability to survive with little water and food was essential."
+  },
+  {
+    "id": "arabian",
+    "slug": "arabian",
+    "name": "Arabian",
+    "origin": "Arabian Peninsula",
+    "type": "Performance",
+    "temperament": "Intelligent, Sensitive",
+    "height": "14.1 - 15.1 hh",
+    "description": "One of the most recognizable horse breeds in the world, the Arabian is known for its distinctive head shape and high tail carriage.",
+    "traits": ["Dished Profile", "High Tail", "Endurance"],
+    "useCases": ["Endurance", "Show", "General Riding"],
+    "image": "https://images.unsplash.com/photo-1534073737927-85f1ebff1f5d?auto=format&fit=crop&q=80&w=1000",
+    "history": "Arabians originated on the Arabian Peninsula. Through war and trade, the Arabian breed spread throughout the world, used to improve other breeds by adding speed, refinement, endurance, and strong bone."
+  }
+]

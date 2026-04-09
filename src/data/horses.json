@@ -1,0 +1,52 @@
+[
+  {
+    "id": "h1",
+    "slug": "desert-storm",
+    "name": "Desert Storm",
+    "breed": "Marwari",
+    "age": 6,
+    "gender": "Stallion",
+    "height": "15.3 hh",
+    "price": 1250000,
+    "currency": "INR",
+    "location": "Rajasthan, India",
+    "status": "Available",
+    "image": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?auto=format&fit=crop&q=80&w=1000",
+    "description": "A magnificent Marwari stallion with perfect inward-curving ears and a spirited temperament. Excellent for endurance and breeding.",
+    "pedigree": {
+      "father": "Sand King",
+      "mother": "Golden Rose",
+      "paternalGrandfather": "Dune Runner",
+      "paternalGrandmother": "Oasis Queen",
+      "maternalGrandfather": "Sun Spirit",
+      "maternalGrandmother": "Night Star"
+    },
+    "performance": "Winner of the 2024 Regional Endurance Cup.",
+    "health": "Fully vaccinated, clear vet check."
+  },
+  {
+    "id": "h2",
+    "slug": "golden-glory",
+    "name": "Golden Glory",
+    "breed": "Akhal-Teke",
+    "age": 4,
+    "gender": "Mare",
+    "height": "15.1 hh",
+    "price": 45000,
+    "currency": "USD",
+    "location": "Ashgabat, Turkmenistan",
+    "status": "Available",
+    "image": "https://images.unsplash.com/photo-1598974357851-98166a9d9b5a?auto=format&fit=crop&q=80&w=1000",
+    "description": "Stunning Akhal-Teke mare with a rare metallic gold coat. Highly intelligent and athletic.",
+    "pedigree": {
+      "father": "Altyn",
+      "mother": "Gunesh",
+      "paternalGrandfather": "Kopet",
+      "paternalGrandmother": "Dag",
+      "maternalGrandfather": "Serdar",
+      "maternalGrandmother": "Ayna"
+    },
+    "performance": "Training in dressage, showing great potential.",
+    "health": "Excellent condition."
+  }
+]
